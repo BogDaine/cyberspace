@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\cyberspace\\cyberspace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\wwwroot\\css\\universal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\wwwroot\\css\\universal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\views\\art\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\views\\art\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\views\\art\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\views\\art\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\controllers\\artpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\controllers\\artpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\views\\artposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\views\\artposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\services\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\services\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|e:\\projects\\cyberspace\\cyberspace\\cyberspace\\cyberspace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FBA56EE-CA4A-4A40-A060-2140CB1AEDCE}|cyberspace\\cyberspace.csproj|solutionrelative:cyberspace\\cyberspace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Views\\Art\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyberspace\\Views\\Art\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Views\\Art\\Index.cshtml",
+              "RelativeToolTip": "cyberspace\\Views\\Art\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:17:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\appsettings.json",
+              "RelativeDocumentMoniker": "cyberspace\\appsettings.json",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\appsettings.json",
+              "RelativeToolTip": "cyberspace\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T14:50:05.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Program.cs",
+              "RelativeDocumentMoniker": "cyberspace\\Program.cs",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Program.cs",
+              "RelativeToolTip": "cyberspace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:50:08.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtController.cs",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Controllers\\ArtController.cs",
+              "RelativeDocumentMoniker": "cyberspace\\Controllers\\ArtController.cs",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Controllers\\ArtController.cs",
+              "RelativeToolTip": "cyberspace\\Controllers\\ArtController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:56:22.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtPostsController.cs",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Controllers\\ArtPostsController.cs",
+              "RelativeDocumentMoniker": "cyberspace\\Controllers\\ArtPostsController.cs",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Controllers\\ArtPostsController.cs",
+              "RelativeToolTip": "cyberspace\\Controllers\\ArtPostsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:58:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "images.cshtml",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Views\\Art\\images.cshtml",
+              "RelativeDocumentMoniker": "cyberspace\\Views\\Art\\images.cshtml",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Views\\Art\\images.cshtml",
+              "RelativeToolTip": "cyberspace\\Views\\Art\\images.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:35:43.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Views\\ArtPosts\\Index.cshtml",
+              "RelativeDocumentMoniker": "cyberspace\\Views\\ArtPosts\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Views\\ArtPosts\\Index.cshtml",
+              "RelativeToolTip": "cyberspace\\Views\\ArtPosts\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T14:51:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "universal.css",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\wwwroot\\css\\universal.css",
+              "RelativeDocumentMoniker": "cyberspace\\wwwroot\\css\\universal.css",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\wwwroot\\css\\universal.css",
+              "RelativeToolTip": "cyberspace\\wwwroot\\css\\universal.css",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-19T21:40:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "cyberspace\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Properties\\launchSettings.json",
+              "RelativeToolTip": "cyberspace\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T17:10:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICollectionService.cs",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Services\\ICollectionService.cs",
+              "RelativeDocumentMoniker": "cyberspace\\Services\\ICollectionService.cs",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\Services\\ICollectionService.cs",
+              "RelativeToolTip": "cyberspace\\Services\\ICollectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:28:34.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cyberspace.csproj",
+              "DocumentMoniker": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\cyberspace.csproj",
+              "RelativeDocumentMoniker": "cyberspace\\cyberspace.csproj",
+              "ToolTip": "E:\\Projects\\cyberspace\\cyberspace\\cyberspace\\cyberspace.csproj",
+              "RelativeToolTip": "cyberspace\\cyberspace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T17:29:24.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

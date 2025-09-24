@@ -1,0 +1,6 @@
+@cyberspace_HostAddress = http://localhost:5055
+
+GET {{cyberspace_HostAddress}}/home/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<div class="basicdiv">
+    <h1 class="basiic">
+        Aceasta este o pagină web   <br>
+    PE CARE MERGE CSS-UL, WOOOOO!!!!
+        <p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+       
+    @for(int i = 0; i < (int)ViewData["n"]; i++){
+        @foreach (var x in ViewData["girls"] as List<string>)
+        {
+        
+            @x
+            <br />
+       
+        }
+    }
+    
+</div>

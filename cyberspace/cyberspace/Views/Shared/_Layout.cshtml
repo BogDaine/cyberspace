@@ -1,0 +1,62 @@
+﻿@{
+    Layout = null; // prevents nesting another layout
+}
+
+<script>
+    console.log("AAA");
+    function doSomething() {
+      alert('Did something');
+      console.log("AAA");
+    }
+</script>
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width" />
+<html lang="en">
+
+
+
+<head>
+    <meta charset="utf-8" />
+    <!title>@ViewData["Title"] - My Cyberspace</!title>
+    <link rel="stylesheet" href="~/css/universal.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <center>
+            <a href="/home">
+            <img src="~/Assets/img/bog_dane.png" width="5%"/>
+            </a>
+            <ul class="navbar">
+            <li><a href="/home" class="navbar">home</a></li>
+            <li><a href="/art" class="navbar">my art</a></li>
+            <li><a href="/home/aboutme" class="navbar end">about me</a></li>
+            <li><a href="/art/images" class="navbar end">images</a></li>
+            </ul>
+        </center>
+
+        
+    </header>
+    <body>
+        <table style="width:100%">
+            <tr>
+                <td style="width:100%">
+
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+            </td>
+                <td style="width:0%">
+                
+            </td>
+        </tr>
+    
+    </table>
+    </body>
+    <footer>
+        <center>
+            <p>&copy; 2025 - Bogdan Oșian</p>
+        </center>
+    </footer>
+</body>
+</html>

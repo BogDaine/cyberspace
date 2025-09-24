@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Art";
+    Layout = "_Layout";
+}
+@{
+}
+<div>
+    <dialog id="dialog" class="art-post">
+        <form method="dialog">
+            <table>
+            <tr><td width="60%"><img id="dialog_img" class="art-post-img" src="https://m.media-amazon.com/images/I/51dtHtl084L._UY1000_.jpg"></td>
+                    <td>
+                        <p class="basic-light">
+                            Cea mai tare pictură, frate!
+                            Cea mai tare pictură, frate!
+                            Cea mai tare pictură, frate!
+                            Cea mai tare pictură, frate!
+                            </p></td>
+            </tr>
+            
+            </table>
+        </form>
+    </dialog>
+</div>
+<div class="gallery centered-div cool-bg">
+    
+    @for(int i = 0; i < 200; i++)
+    {
+        var id_name = new string("img")+i;
+        <a class="gallery-item" onclick="openDialog('@id_name')">
+            <img id="@id_name" src="~/Assets/art/sketch/Porsche behind perlin.png" />
+        </a>
+    }
+    
+</div>
+
+<script>
+    function openDialog(id){
+        console.log("id_: " + id);
+        var new_src = document.getElementById(id).src;
+        document.getElementById("dialog_img").src = document.getElementById(id).src;
+        dialog.showModal();
+    }
+    function setImg(){
+
+    }
+
+    function onClick(event) {
+        if (event.target === dialog) {
+            dialog.close();
+        }
+    }
+
+    const dialog = document.querySelector("dialog");
+    dialog.addEventListener("click", onClick);
+
+
+</script>

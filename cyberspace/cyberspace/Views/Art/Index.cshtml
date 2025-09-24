@@ -1,0 +1,62 @@
+﻿@model IEnumerable<cyberspace.Models.ArtPost>
+@{
+    ViewData["Title"] = "My Art";
+    Layout = "_Layout";
+}
+@{
+}
+<div>
+    <dialog id="dialog" class="art-post">
+        <form method="dialog">
+            <table>
+                <tr>
+                    <td width="60%"><img id="dialog_img" class="art-post-img" src="https://m.media-amazon.com/images/I/51dtHtl084L._UY1000_.jpg"></td>
+                    <td>
+                        <p class="basic-light">
+                            Cea mai tare pictură, frate!
+                            Cea mai tare pictură, frate!
+                            Cea mai tare pictură, frate!
+                            Cea mai tare pictură, frate!
+                        </p>
+                    </td>
+                </tr>
+
+            </table>
+        </form>
+    </dialog>
+</div>
+<div class="centered-div cool-bg">
+    <div class="gallery">
+
+        @foreach(var item in Model)
+        {
+            var id_name = new string("img") + item.Id;
+            <a class="gallery-item" onclick="openDialog('@id_name')">
+                <img id="@id_name" src=@item.Src />
+            </a>
+        }
+
+    </div>
+</div>
+<script>
+    function openDialog(id){
+        console.log("id_: " + id);
+        var new_src = document.getElementById(id).src;
+        document.getElementById("dialog_img").src = document.getElementById(id).src;
+        dialog.showModal();
+    }
+    function setImg(){
+
+    }
+
+    function onClick(event) {
+        if (event.target === dialog) {
+            dialog.close();
+        }
+    }
+
+    const dialog = document.querySelector("dialog");
+    dialog.addEventListener("click", onClick);
+
+
+</script>
